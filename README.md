@@ -1,5 +1,10 @@
 # Intercambio-tecnologico
-Este proyecto es una base para llevar un paso a paso de las distintas posibilidades de uso de GitHub para el taller Intercambio Tecnológico UNA 2024.
+Este proyecto es una base para llevar un paso a paso de las distintas posibilidades de uso de GitHub para el taller Intercambio Tecnológico UNA 2024. De los distintos aspectos a ver son:
+- Creación de Archivos
+- Forks
+- Commits
+- Branches
+- Pull Requests
 
 ## Pasos Durante el taller
 Lo que se va a hacer es intentar de enseñar el proceso de poder tomar este proyecto como base mediante el uso de un fork para tener el proyecto de manera individual.
@@ -21,8 +26,8 @@ def main():
     print("Hello World")
 
 ~~~
-  a. luego crear un commit con los cambios.
 6. Volviendo a la pantalla inicial del proyecto mientras que se esta en la branch creada aparecera un boton para hacer un pull request (union) a la branch principal con los cambios hechos en la branch.
 7. Una vez finalizado el pull request revisar los cambios hechos en la branch main.
 
+Una vez termiados los pasos, los commits se pueden ver en la sección encima de los archivos a la derecha. Ahí se puede dar una vista de los distintos cambios que se han hecho en una branch por commit.
 Y con eso concluye el taller del Intercambio Tecnologico UNA 2024 del Grupo 02
