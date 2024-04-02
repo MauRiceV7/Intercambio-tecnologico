@@ -7,7 +7,7 @@ Lo que se va a hacer es intentar de enseñar el proceso de poder tomar este proy
    a. Revisar que el dueño del fork es la cuenta que lo esta creando.
 2. Luego agregar un archivo inicial mediante un commit inicial. Para el seguimiento de esta guía recomendamos hacer un archivo de extensión .py (Python).
 3. Agregar la siguiente sección de codigo en el archivo inicial 
-`def main():
+` def main():
     
 
 if __name__ == "__main__":
