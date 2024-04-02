@@ -7,12 +7,11 @@ Lo que se va a hacer es intentar de enseñar el proceso de poder tomar este proy
    a. Revisar que el dueño del fork es la cuenta que lo esta creando.
 2. Luego agregar un archivo inicial mediante un commit inicial. Para el seguimiento de esta guía recomendamos hacer un archivo de extensión .py (Python).
 3. Agregar la siguiente sección de codigo en el archivo inicial 
-` def main():
-    
-
-if __name__ == "__main__":
-    main()
-`
+`def main():`
+`    `
+``
+`if __name__ == "__main__":`
+`    main()`
 4. Crear una branch al darle click al boton que dice main para crear una branch (rama), al ingresar el nombre en la barra buscadora se dara la opción de crear la branch. Para este proyecto lo nombramos HelloWorld.
 5. Al crear la branch asegurase estar en ella antes de hacer cambios, y luego buscar el archivo inicial creado anteriormente y aregar debajo de la linea `def main():` la linea `  print("Hello World")` para que se vea similar a lo siguiente:
 `def main():
